@@ -1,0 +1,35 @@
+mkdir SI_2025_lab1_233079
+cd SI_2025_lab1_233079
+git init
+git remote add origin https://github.com/Admir1305/SI_2025_lab1_233079.git
+echo "Име: Admir\nПрезиме: Jasaroski\nИндекс: 233079" > README.md
+git add README.md
+git commit - m "Initial commit"
+git push origin master
+nano SI2025Lab1Main.java
+git add SI2025Lab1Main.java
+git commit -m "commiut for code"
+git push origin master
+git fetch origin
+git checkout 2-find-all-completed-tasks
+nano issue.java
+git add.
+git commit..
+git push origin 2-find-all-completed-tasks
+git checkout 4-sort-tasks-by-priority
+nano  getTasksSortedByPriority.java 
+git add.
+git commit..
+git push  4-sort-tasks-by-priority
+git checkout 6-find-the-highest-priority-unfinished-task
+nano findHeightPriority.java
+git add.
+git commit..
+git push origin 6-find-the-highest-priority-unfinished-task
+git checkout master
+git merge 6-find-the-highest-priority-unfinished-task
+git push origin
+git log --oneline --graph --all > logs.txt
+nano 233079.txt
+git add logs.txt 233079.txt
+git commit ..

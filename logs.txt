@@ -1,0 +1,15 @@
+*   d149a73 Merge branch 'master' of https://github.com/Admir1305/SI_2025_lab1_233079
+|\  
+| *   f1b1f76 Merge pull request #10 from Admir1305/2-find-all-completed-tasks
+| |\  
+| | * c081e09 Implemented findAllCompletedTasks method for issue #2
+| * |   a202a20 Merge pull request #11 from Admir1305/4-sort-tasks-by-priority
+| |\ \  
+| | |/  
+| |/|   
+| | * 3832a1f Implemented sort4tasks
+| |/  
+* / 9895f48 Implemented highestPriorityFind
+|/  
+* 8335540 Commit for code
+* 1cf913f Initial commit
